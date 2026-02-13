@@ -1,4 +1,4 @@
-import { AnimatedHeadline } from "@/components/AnimatedHeadline";
+import { AnimatedHeadline } from "./AnimatedHeadline";
 
 export default function Home() {
   return (
